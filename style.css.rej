@@ -1,0 +1,14 @@
+diff a/style.css b/style.css	(rejected hunks)
+@@ -13,8 +13,7 @@
+     text-align: center;
+ }
+ .container {
+-margin: 0 auto;
+-width:  800ps;
+-text-align: center;
+-
++    margin: 0 auto;
++    width: 800px;
++    text-align: center;
+ }
+\ No newline at end of file
